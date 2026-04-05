@@ -16,11 +16,11 @@ CSS — 46.7%
 SCSS — 40.7%
 HTML — 10.5%
 JavaScript — 2.1%
-📌 Note
+ Note
 
 This project is a design and portfolio showcase.
 The swap system is not connected to blockchain logic and does not execute real transactions.
 
-🚀 Purpose
+
 
 Created to demonstrate frontend skills, UI design approach, and visual concept development for a crypto swap platform.
