@@ -1,10 +1,4 @@
-/*!
-* metismenu https://github.com/onokumus/metismenu#readme
-* A jQuery menu plugin
-* @version 3.0.6
-* @author Osman Nuri Okumus <onokumus@gmail.com> (https://github.com/onokumus)
-* @license: MIT 
-*/
+
 
 .metismenu .arrow {
   float: right;
@@ -15,10 +9,6 @@
   float: left;
 }
 
-/*
-   * Require Bootstrap 3.x
-   * https://github.com/twbs/bootstrap
-  */
 
 .metismenu .glyphicon.arrow:before {
   content: "\e079";
@@ -28,10 +18,6 @@
   content: "\e114";
 }
 
-/*
-   * Require Font-Awesome
-   * http://fortawesome.github.io/Font-Awesome/
-  */
 
 .metismenu .fa.arrow:before {
   content: "\f104";
@@ -41,10 +27,6 @@
   content: "\f107";
 }
 
-/*
-   * Require Ionicons
-   * http://ionicons.com/
-  */
 
 .metismenu .ion.arrow:before {
   content: "\f3d2"
